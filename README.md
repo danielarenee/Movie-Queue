@@ -3,10 +3,10 @@
 MovieQueue is a Python-based app designed to help you organize and explore movies you plan to watch in the future. With an easy-to-use graphical interface, the app allows you to add movies, view details such as descriptions and streaming platform availability, filter movies by genre, and keep your watchlist updated effortlessly.
 
 # Features
-	•	Add movies to queue with their title and choose their genre <br>
-	•	Filter by genre and access detailed information about a movie, including its description and poster <br>
-	•	Remove movies from your queue once you've watched them or no longer plan to watch <br>
-	•	Automatically fetch streaming platform availability in your country using the TMDb API <br> <br>
+* Add movies to queue with their title and choose their genre <br>
+* Filter by genre and access detailed information about a movie, including its description and poster <br>
+* Remove movies from your queue once you've watched them or no longer plan to watch <br>
+* Automatically fetch streaming platform availability in your country using the TMDb API <br> <br>
 
  # How To use
   1.  Set up the Database: Ensure that a MySQL database named movies_db is set up with a table for storing movie data. <br>
